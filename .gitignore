@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.spec
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Large compiled executables
+*.exe
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Antigravity / AI tools
+.agents/
+.gemini/
+skills-lock.json
+
+# Processed outputs (optional - comment out to include samples)
+processed_*.xlsx
